@@ -1,0 +1,13 @@
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\bin\Debug\PaletteLayouts.dll.config
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\bin\Debug\PaletteLayouts.dll
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\bin\Debug\PaletteLayouts.pdb
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\bin\Debug\PaletteLayouts.xml
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.Container1.resources
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.Resources.resources
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.PaletteLayouts.MyCommands.resources
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.vbproj.GenerateResource.Cache
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.dll
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.xml
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.pdb
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.vbprojResolveAssemblyReference.cache
+C:\Users\mniess\Documents\Visual Studio 2015\Projects\PaletteLayouts\PaletteLayouts\obj\Debug\PaletteLayouts.AboutBox1.resources
